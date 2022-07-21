@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>354431250194-98l4pplekk3p0bgdf7j4sfu1ger2aqvc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.354431250194-98l4pplekk3p0bgdf7j4sfu1ger2aqvc</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>354431250194-gvpvca5pak9ud9kjed565kjjmn5uebjq.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyASD-aApWDb_EpnpmVLIJPx93ysIlaWx_c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>354431250194</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jiffyfuels.consumer.jiffyFuelsConsumer</string>
+	<key>PROJECT_ID</key>
+	<string>jiffy-fuels</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jiffy-fuels.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:354431250194:ios:bf5a9300583cb5ff078dcb</string>
+</dict>
+</plist>

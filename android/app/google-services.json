@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "354431250194",
+    "project_id": "jiffy-fuels",
+    "storage_bucket": "jiffy-fuels.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354431250194:android:a264aa0bc613dbdb078dcb",
+        "android_client_info": {
+          "package_name": "com.jiffyfuels.consumer.jiffy_fuels_consumer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354431250194-tjbhnidvf5867qifv0oaug0q3v8t0s1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jiffyfuels.consumer.jiffy_fuels_consumer",
+            "certificate_hash": "74b89f41c2e2467747db27bc35aba3883566273b"
+          }
+        },
+        {
+          "client_id": "354431250194-osq0suvej5hpc5puldrtb7vs41gcjhbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRbIcVDslT8YRgAUsT_-f2ckMEXK_GWxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354431250194-osq0suvej5hpc5puldrtb7vs41gcjhbb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354431250194-8dd0pshdj3op93o52q33q6p5q71nc096.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jiffyfuels.retailer.jiffyRetailer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354431250194:android:4cc4bfd7f23028be078dcb",
+        "android_client_info": {
+          "package_name": "com.jiffyfuels.retailer.jiffy_retailer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354431250194-gvpvca5pak9ud9kjed565kjjmn5uebjq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jiffyfuels.retailer.jiffy_retailer",
+            "certificate_hash": "74b89f41c2e2467747db27bc35aba3883566273b"
+          }
+        },
+        {
+          "client_id": "354431250194-osq0suvej5hpc5puldrtb7vs41gcjhbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRbIcVDslT8YRgAUsT_-f2ckMEXK_GWxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354431250194-osq0suvej5hpc5puldrtb7vs41gcjhbb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354431250194-8dd0pshdj3op93o52q33q6p5q71nc096.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jiffyfuels.retailer.jiffyRetailer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

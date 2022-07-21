@@ -1,5 +1,5 @@
 name: jiffy_fuels_consumer
-description: A new Flutter project.
+description: Jiffy Fuels - Consumer
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -18,7 +18,7 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.17.3 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 # Dependencies specify other packages that your package needs in order to work.
 # To automatically upgrade your package dependencies to the latest versions
@@ -34,6 +34,42 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
+  get: ^4.6.5
+  firebase_core: ^1.19.2
+  firebase_auth: ^3.4.2
+  cloud_firestore: ^3.3.0
+  firebase_storage: ^10.3.2
+
+  get_storage: ^2.0.3
+  image_picker: ^0.8.5+3
+  flutter_switch: ^0.3.2
+  charts_flutter: ^0.12.0
+  modal_progress_hud_nsn: ^0.2.1
+  #place_picker: ^0.9.19
+  fluttertoast: ^8.0.9
+  cached_network_image: ^3.2.1
+
+  animated_bottom_navigation_bar: ^0.3.3
+
+  pin_code_fields: ^7.4.0
+
+
+  #TO GET LAT AND LANG
+  geolocator: ^8.2.1
+  #TO GET ADDRESS FROM LAT AND LANG
+  geocoding: ^2.0.4
+
+  permission_handler: ^9.2.0
+
+  auto_size_text: ^3.0.0
+  carousel_slider: ^4.1.1
+
+  fade_shimmer: ^2.0.1
+  shimmer: ^2.0.0
+
+  flutter_easyloading: ^3.0.5
+
+
 
 dev_dependencies:
   flutter_test:
@@ -56,6 +92,11 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+
+
+  assets:
+    - images/
+
 
   # To add assets to your application, add an assets section, like this:
   # assets:
